@@ -133,8 +133,9 @@ and I will be able to can record symptoms and diagnoses accurately.
 
 5. Acceptance Stories
 =======================
+
 Scenario 01:
-~~~~~~~~~~~~
+---------------
 **Finance Director Managing Expenses:**
 Given a budget that allows for all expenses in the project
 And gives a margin for other unexpected expenses.
@@ -142,24 +143,27 @@ When other stakeholders submit invoices for approval
 Then I will liaise with the personnel in the finance department
 And submit my final decision on whether the finance request is approved or
 denied.
+
 Scenario 02:
-~~~~~~~~~~~~~
+---------------
 **Chief of staff contributes to design of User Interface:**
 Given opportunity to contribute towards the design and testing phase of the
 project, and communicate my findings to the rest of the department.
 When the new EHR system is implemented. Then my I will be ready to deal with
 any nuances that may occur and other clinicians will also be informed of ways
 to circumvent any unavoidable snags in the system.
+
 Scenario 03:
-~~~~~~~~~~~~~
+--------------
 **Project Managers Experience Oversight:**
 Given approval to begin process, then I will begin making a project charter.
 When all stakeholders are aware of the scope of the project and their potential
 role in its implementation. Then I outline the team operating principles so
 that everyone is aware of the level of commitment required for the project
 and detailed responsibilities will be given out to stakeholders.
+
 Scenario 04:
-~~~~~~~~~~~~~
+--------------
 **Clerical Staff transfers data into new system:**
 Given approval of the project, then I will begin data from hard copy and other
 digital sources to the new system. When the data transfer has ben complete
