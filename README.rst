@@ -136,7 +136,7 @@ and I will be able to can record symptoms and diagnoses accurately.
 
 Scenario 01:
 ---------------
-**Finance Director Managing Expenses:**
+**Finance Director Managing Expenses:** ::
 Given a budget that allows for all expenses in the project
 And gives a margin for other unexpected expenses.
 When other stakeholders submit invoices for approval
