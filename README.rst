@@ -160,7 +160,7 @@ Scenario 02:
    When the new EHR system is implemented
    Then my I will be ready to deal with any nuances that may occur 
       And other clinicians will also be informed of ways to circumvent any unavoidable snags in the system.
-        ...
+      ...
 
 Scenario 03:
 --------------
@@ -171,10 +171,10 @@ Scenario 03:
    Given approval to begin process
        And completion of federal and stste certification requirements
        ...
-       When all stakeholders are aware of the scope of the project and their potential role in its implementation
-       Then I outline the team operating principles so everyone is aware of the level of commitment required
-       And detailed responsibilities will be given out to stakeholders
-       ...
+   When all stakeholders are aware of the scope of the project and their potential role in its implementation
+      Then I outline the team operating principles so everyone is aware of the level of commitment required
+      And detailed responsibilities will be given out to stakeholders
+      ...
 
 Scenario 04:
 --------------
