@@ -155,21 +155,26 @@ Scenario 02:
 ::
 
    Given opportunity to contribute towards the design and testing phase of the project
-        And communicate my findings to the rest of the department.
-        ...
+      And communicate my findings to the rest of the department.
+      ...
    When the new EHR system is implemented
    Then my I will be ready to deal with any nuances that may occur 
-        And other clinicians will also be informed of ways to circumvent any unavoidable snags in the system.
+      And other clinicians will also be informed of ways to circumvent any unavoidable snags in the system.
         ...
 
 Scenario 03:
 --------------
 **Project Managers Experience Oversight:**
-Given approval to begin process, then I will begin making a project charter.
-When all stakeholders are aware of the scope of the project and their potential
-role in its implementation. Then I outline the team operating principles so
-that everyone is aware of the level of commitment required for the project
-and detailed responsibilities will be given out to stakeholders.
+
+::
+
+   Given approval to begin process
+       And completion of federal and stste certification requirements
+       ...
+       When all stakeholders are aware of the scope of the project and their potential role in its implementation
+       Then I outline the team operating principles so everyone is aware of the level of commitment required
+       And detailed responsibilities will be given out to stakeholders
+       ...
 
 Scenario 04:
 --------------
