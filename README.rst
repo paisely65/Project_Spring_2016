@@ -178,8 +178,14 @@ Scenario 03:
 
 Scenario 04:
 --------------
-**Clerical Staff transfers data into new system:**
-Given approval of the project, then I will begin data from hard copy and other
-digital sources to the new system. When the data transfer has ben complete
-Then I would develop methods to move seamlessly from archives to current
-records on the database. And I would be able to auspiciously use the new system.
+**Clerical Staff Director coordinates transfers data into new system:**
+
+::
+
+    Given completion of training in data trnsfer
+       And adequate staff for the project
+       ...
+    When all required documents are complied from various departments
+    Then I will direct my staff to begin data from hard copy and other digital sources to the new system.
+       And I will continue to monitor the progress of the data transfer
+       ...
