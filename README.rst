@@ -100,7 +100,7 @@ records.
 
 1. **Current Alternatives**: Clinicians thoroughly check medical records and
    data before charts are transferred from the patients’ bedside.
-   **Value Proposition**: Misdiagnosis can be avoided if care is taken to
+2. **Value Proposition**: Misdiagnosis can be avoided if care is taken to
    consult with all members of the team to ensure that all patient data has
    been taken into account before any major clinical decisions are made.
 
