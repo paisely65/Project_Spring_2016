@@ -148,19 +148,19 @@ Scenario 01:
       And submit my final decision on whether the finance request is approved or denied
       ... 
 
-
-
-
-
-
 Scenario 02:
 ---------------
 **Chief of staff contributes to design of User Interface:**
-Given opportunity to contribute towards the design and testing phase of the
-project, and communicate my findings to the rest of the department.
-When the new EHR system is implemented. Then my I will be ready to deal with
-any nuances that may occur and other clinicians will also be informed of ways
-to circumvent any unavoidable snags in the system.
+
+::
+
+   Given opportunity to contribute towards the design and testing phase of the project
+        And communicate my findings to the rest of the department.
+        ...
+   When the new EHR system is implemented
+   Then my I will be ready to deal with any nuances that may occur 
+        And other clinicians will also be informed of ways to circumvent any unavoidable snags in the system.
+        ...
 
 Scenario 03:
 --------------
