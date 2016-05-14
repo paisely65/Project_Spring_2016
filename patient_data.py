@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""This module shows how to file patient info."""
+"""This module shows how store the inital intake data of patients."""
 
 ADMIT_INFO = 'On {date}, {name}, was admitted to the {department}, ' \
              'complaining of {symptoms}.'
