@@ -4,7 +4,7 @@
 
 
 def projected_approval(estimated_costs, approved_budget):
-if approved_budget - estimated_cost > 27500:
+if approved_budget - estimated_cost > 27500:     # the $27500 allows for unexpected expenses that may occur.
     return true
 else: 
     false
