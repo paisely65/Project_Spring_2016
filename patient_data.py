@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 """This module shows how to file patient info."""
 
-
 ADMIT_INFO = 'On {date}, {name}, was admitted to the {department}, ' \
              'complaining of {symptoms}.'
              
