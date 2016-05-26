@@ -12,12 +12,7 @@ By Candace Grant
 
 Electronic Patient Records System (EPRS) will capture patient personal data and
 patient care related data at point of service in the respective units/
-departments. This data will be processed alongside information from insurance
-companies to determine service costs and effectively and quickly allow payment
-approvals eliminating long delays. The data will be stored on a centralized
-system with several database servers on the hospital site. The EPRS will
-generate financial and other department reports to drive improvements in
-cost and performance management.
+departments. No imports are needed to run the files. Simply run the code and call the functions in your terminal. In some cases You may need to copy a template into your browser and enter information that you can use to test the code. 
 
 2. Persona
 =============
